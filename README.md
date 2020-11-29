@@ -8,7 +8,7 @@
 
 ## Objectif 
 
-Create page HTML for **hello-world.hephaiscode.com** with Apache and HTML File
+Create secure Web Page for **hello-world.hephaiscode.com** with Apache and PHP File. Access by URL https://hello-world.hephaiscode.com .
 
 ## You need
 
